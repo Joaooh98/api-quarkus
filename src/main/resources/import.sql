@@ -1,0 +1,1 @@
+-- insert into Fruit(id, name, qtd) values(nextval('hibernate_sequence'),'apple', 2);
